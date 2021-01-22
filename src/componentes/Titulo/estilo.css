@@ -1,0 +1,13 @@
+.box {
+    background-color: rgb(108, 152, 248);
+    align-items: center;
+    padding: 10px;
+}
+
+.texto {
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
